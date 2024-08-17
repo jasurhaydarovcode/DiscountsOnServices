@@ -12,6 +12,9 @@ module.exports = {
                 gotham: ['Gotham Pro', 'sans-serif'],
             },
             colors: {
+                'whitest': {
+                    100: '#ECF3FB'
+                },
                 'black': {
                     100: '#000',
                     200: '#171717'

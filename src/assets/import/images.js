@@ -1,4 +1,4 @@
 import logo from '../images/Navbar/logo.svg'
-import logo2 from '../images/Navbar/logo.svg'
+import spotifyGirl from '../images/hero/Rectangle 10001.svg'
 
-export {logo, logo2}
+export {logo, spotifyGirl}
